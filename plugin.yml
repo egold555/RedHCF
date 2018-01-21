@@ -1,0 +1,11 @@
+name: RedHCF
+main: org.golde.bukkit.redhcf.Main
+version: 1.0
+author: Eric Golde
+description: A custom plugin for XBoxKidYT
+website: http://eric.golde.org/
+commands:
+   kit:
+      description: Opens the kit menu
+      usage: /kit 
+      aliases: [kits, k]
